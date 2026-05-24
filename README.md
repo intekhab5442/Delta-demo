@@ -6,3 +6,5 @@ shardha
 
 # student
 delta student
+
+# hello guys from local to remote edition
